@@ -1,0 +1,29 @@
+<!--
+/**
+ * Copyright (C) 2007 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * Designed by itim2101 [https://www.flaticon.com/authors/itim2101] from www.flaticon.com
+ */
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:height="24dp"
+        android:viewportHeight="480"
+        android:viewportWidth="479"
+        android:width="24dp"
+        android:tint="?android:attr/colorControlNormal">
+    <path android:fillColor="#FF000000" android:pathData="m199.5,272c0,48.602 39.398,88 88,88s88,-39.398 88,-88 -39.398,-88 -88,-88c-48.578,0.059 -87.941,39.422 -88,88zM287.5,344c-36.645,-0.055 -67.418,-27.586 -71.527,-64h15.527v-16h-15.527c1.508,-13.5 6.824,-26.293 15.328,-36.887l10.941,10.941 11.313,-11.313 -10.941,-10.941c10.594,-8.504 23.387,-13.82 36.887,-15.328v15.527h16v-15.527c13.5,1.508 26.293,6.824 36.887,15.328l-10.941,10.941 11.313,11.313 10.941,-10.941c8.504,10.594 13.82,23.387 15.328,36.887h-15.527v16h15.527c-4.109,36.414 -34.883,63.945 -71.527,64zM287.5,344"/>
+    <path android:fillColor="#FF000000" android:pathData="m306.27,242.398c-10.469,5.355 -20.523,11.484 -30.082,18.328 -4.16,4.02 -5.828,9.969 -4.363,15.563 1.465,5.594 5.832,9.961 11.426,11.426 5.598,1.465 11.543,-0.203 15.563,-4.363 6.848,-9.559 12.973,-19.613 18.328,-30.078 1.727,-3.121 1.176,-7.008 -1.344,-9.527 -2.523,-2.523 -6.41,-3.07 -9.527,-1.348zM306.27,242.398"/>
+    <path android:fillColor="#FF000000" android:pathData="m447.5,272c-0.094,-69.844 -45.402,-131.586 -112,-152.625v-79.375c-0.027,-22.082 -17.918,-39.973 -40,-40h-224c-22.082,0.027 -39.973,17.918 -40,40v400c0.027,22.082 17.918,39.973 40,40h224c22.082,-0.027 39.973,-17.918 40,-40v-15.375c66.598,-21.039 111.906,-82.781 112,-152.625zM431.5,272c0,79.527 -64.473,144 -144,144s-144,-64.473 -144,-144 64.473,-144 144,-144c79.492,0.094 143.906,64.508 144,144zM127.5,16h112v16c0,4.418 -3.582,8 -8,8h-96c-4.418,0 -8,-3.582 -8,-8zM319.5,440c0,13.254 -10.746,24 -24,24h-224c-13.254,0 -24,-10.746 -24,-24v-400c0,-13.254 10.746,-24 24,-24h40v16c0,13.254 10.746,24 24,24h96c13.254,0 24,-10.746 24,-24v-16h40c13.254,0 24,10.746 24,24v75.199c-63.57,-12.906 -128.645,13.844 -164.758,67.734 -36.109,53.887 -36.109,124.246 0,178.133 36.113,53.891 101.188,80.641 164.758,67.734zM319.5,440"/>
+</vector>

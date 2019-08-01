@@ -1,0 +1,28 @@
+<!--
+/**
+ * Copyright (C) 2007 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * Designed by itim2101 [https://www.flaticon.com/authors/itim2101] from www.flaticon.com
+ */
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:height="24dp"
+        android:viewportHeight="480"
+        android:viewportWidth="480"
+        android:width="24dp"
+        android:tint="?android:attr/colorControlNormal">
+    <path android:fillColor="#FF000000" android:pathData="M240,0C107.452,0 0,107.452 0,240s107.452,240 240,240s240,-107.452 240,-240C479.85,107.514 372.486,0.15 240,0zM240,464C116.288,464 16,363.712 16,240S116.288,16 240,16s224,100.288 224,224C463.859,363.653 363.653,463.859 240,464z"/>
+    <path android:fillColor="#FF000000" android:pathData="M304,216c-4.134,0.024 -8.191,1.127 -11.768,3.2c-6.094,-9.787 -18.338,-13.782 -29.032,-9.472c31.801,-30.558 32.809,-81.11 2.251,-112.911c-30.558,-31.801 -81.11,-32.809 -112.911,-2.251c-31.801,30.558 -32.809,81.11 -2.251,112.911c9.303,9.682 20.898,16.861 33.711,20.875v5.12c-2.562,-0.948 -5.268,-1.445 -8,-1.472c-13.255,0 -24,10.745 -24,24v56c0,48.601 39.399,88 88,88s88,-39.399 88,-88v-72C328,226.745 317.255,216 304,216zM144,152c-0.081,-35.346 28.506,-64.066 63.853,-64.147s64.066,28.506 64.147,63.853c0.045,19.366 -8.682,37.711 -23.736,49.895c-5.217,-2.062 -11.015,-2.107 -16.264,-0.128v-8c22.958,-13.255 30.824,-42.611 17.569,-65.569c-13.255,-22.958 -42.611,-30.824 -65.569,-17.569c-22.958,13.255 -30.824,42.611 -17.569,65.569c4.213,7.297 10.272,13.356 17.569,17.569v17.888C159.916,201.451 144.142,178.043 144,152zM208,136c-13.255,0 -24,10.745 -24,24v13.144c-11.69,-13.255 -10.421,-33.476 2.834,-45.166c13.255,-11.69 33.476,-10.421 45.166,2.834c10.667,12.095 10.667,30.237 0,42.332V160C231.934,146.772 221.228,136.066 208,136zM312,312c0,39.764 -32.235,72 -72,72c-39.764,0 -72,-32.236 -72,-72v-56c0,-4.418 3.582,-8 8,-8s8,3.582 8,8v24c0,4.418 3.582,8 8,8s8,-3.582 8,-8V160c0,-4.418 3.582,-8 8,-8c2.159,-0.004 4.223,0.885 5.704,2.456c1.486,1.46 2.315,3.461 2.296,5.544v88c0,4.418 3.582,8 8,8s8,-3.582 8,-8v-24c0,-4.418 3.582,-8 8,-8s8,3.582 8,8v32c0,4.418 3.582,8 8,8s8,-3.582 8,-8v-24c0,-4.418 3.582,-8 8,-8s8,3.582 8,8v32c0,4.418 3.582,8 8,8s8,-3.582 8,-8v-24c0,-4.418 3.582,-8 8,-8s8,3.582 8,8V312z"/>
+</vector>
